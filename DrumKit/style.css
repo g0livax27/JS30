@@ -30,12 +30,12 @@ html {
     text-align: center;
     color: white;
     background: rgba(0, 0, 0, 0.4);
-    text-shadow: 0 0 .5rem white;
+    text-shadow: 0 0 .5rem black;
 }
 
 .playing {
     transform: scale(1.1);
-    border-color: white;
+    border-color: blueviolet;
     box-shadow: 0 0 1rem white;
 }
 
@@ -48,5 +48,5 @@ kbd {
     font-size: 1.2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
-    color: white;
+    color: blueviolet;
 }
